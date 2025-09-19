@@ -5,8 +5,7 @@ A secure, interactive **Quizzy** application built with the **MERN stack** (Mong
 ## 🚀 Live Demo
 [🔗 Try it here](https://online-quiz-maker-np09.onrender.com/)
 
-## 📂 GitHub Repository
-[🔗 View on GitHub](https://github.com/tsujit74/online-quiz-maker)
+
 
 
 ## 📸 Screenshots
@@ -14,8 +13,7 @@ A secure, interactive **Quizzy** application built with the **MERN stack** (Mong
 ### 1. Quizzy Landing Page
 ![Quizzy Landing Page](./client/public/Quiz-landing.png)
 
-### 2. User Dashboard View
-![User Dashboard Screenshot](./client/public/Quiz-user-dashboard.png)
+
 
 ### 3. Quizzy Test Page
 ![Quizzy Test Page](./client/public/Quiz-take.png)
@@ -361,8 +359,8 @@ We welcome contributions to make **Quizzy** even better!
 
 For questions, issues, or contributions, please reach out via:
 
-* **GitHub:** [Sujit Thakur](https://github.com/tsujit74)
-* **LinkedIn:** [Sujit Thakur](https://www.linkedin.com/in/sujit-thakur-463b45229/)
+* **GitHub:** [Kaushlendra Singh](https://github.com/yadavkp)
+* **LinkedIn:** [Kaushlendra Singh](https://www.linkedin.com/in/kaushlendra-singh-471829276/)
 * **GitHub Issues:** Open an issue in the repository.
 * **Documentation:** Check for common solutions before raising new issues.
 
@@ -371,6 +369,6 @@ For questions, issues, or contributions, please reach out via:
 **Thank you for your interest in Quizzy!** Your support and contributions help improve the platform for everyone.
 
 **With Gratitude,**
-**Sujit Thakur ❤️**
+**Kaushlendra Singh ❤️**
 
 ---
