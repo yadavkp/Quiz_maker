@@ -14,18 +14,6 @@ A secure, interactive **Quizzy** application built with the **MERN stack** (Mong
 ![Quizzy Landing Page](./client/public/Quiz-landing.png)
 
 
-
-### 3. Quizzy Test Page
-![Quizzy Test Page](./client/public/Quiz-take.png)
-
-### 4. Quizzy Feedback and Result
-![Quizzy Feedback and Result](./client/public/Quiz-feedback.png)
-
-### 5. Quizzy Create Quiz
-![Quizzy Create Quiz](./client/public/Quiz-create.png)
-
-
-
 ## 🚀 Features
 
 - **📚 Subject-wise Quizzes** – Choose from multiple categories (MERN, Java, Web Development, etc.).
