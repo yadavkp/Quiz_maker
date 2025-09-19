@@ -4,16 +4,6 @@ A secure, interactive **Quizzy** application built with the **MERN stack** (Mong
 
 ## 🚀 Live Demo
 [🔗 Try it here](https://online-quiz-maker-np09.onrender.com/)
-
-
-
-
-## 📸 Screenshots
-
-### 1. Quizzy Landing Page
-![Quizzy Landing Page](./client/public/Quiz-landing.png)
-
-
 ## 🚀 Features
 
 - **📚 Subject-wise Quizzes** – Choose from multiple categories (MERN, Java, Web Development, etc.).
